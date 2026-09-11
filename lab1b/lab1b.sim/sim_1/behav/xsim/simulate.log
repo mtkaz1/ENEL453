@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time = 0: switches_inputs = xxxxxxxxxxxxxxxx, led = xxxxxxxxxxxxxxxx
+Time = 210000: switches_inputs = 0000000000000000, led = 0000000000000000
+Time = 410000: switches_inputs = 0001000100010001, led = 0001000100010001
+Time = 610000: switches_inputs = 0010001000100010, led = 0010001000100010
+Time = 810000: switches_inputs = 0011001100110011, led = 0011001100110011
